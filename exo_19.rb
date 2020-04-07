@@ -3,7 +3,7 @@
 
 mails = []
 # D'abord on stock dans l'array
-50.times do |i|
+51.times do |i|
     mails << "jean.dupont.#{i}@email.fr"
 end
 
